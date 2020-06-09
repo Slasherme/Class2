@@ -13,7 +13,7 @@ else{
 
 console.log('Am I Love programming?',Loveprogramming);
 var oldest_one_between_brothers = true; 
-var ans2 = prompt('Am I  + oldest one between brothers?').toLowerCase();
+var ans2 = prompt('Am I  oldest one between brothers?').toLowerCase();
 if(ans2=='yes'.toLowerCase()){
     alert(oldest_one_between_brothers);
 }
@@ -47,6 +47,14 @@ if(ans5=='yes'.toLowerCase()){
 else{
     alert('false');
 }
+for (var i=0 ; i <=3 ;i++)
+{var ans6 = prompt('guess the number that in my mind' ).toLowerCase();
+if(ans6==1){
+    alert('Thats it');
+}
+else{
+    alert('Opps try again');
+}}
 console.log('Love_to_work_out ',Love_to_work_out);
 alert('Welcome,please keep intersted '+userName)
 
