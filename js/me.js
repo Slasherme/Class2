@@ -51,10 +51,15 @@ for (var i=0 ; i <=3 ;i++)
 {var ans6 = prompt('guess the number that in my mind' ).toLowerCase();
 if(ans6==1){
     alert('Thats it');
+    break;
 }
 else{
     alert('Opps try again');
 }}
+if(i>3)
+{    alert('The answer is 1');
+}
+
 console.log('Love_to_work_out ',Love_to_work_out);
 alert('Welcome,please keep intersted '+userName)
 
