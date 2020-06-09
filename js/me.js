@@ -1,7 +1,7 @@
 'use strict';
 var userName = prompt('What is your name?');
-alert('Hello '+ userName)
-alert('please answer these questions with yes or no')
+alert('Hello '+ userName);
+alert('please answer these questions with yes or no');
 var Loveprogramming = true;  //string - text
 var ans1 = prompt('Am I Love programming?').toLowerCase();
 if(ans1=='yes'.toLowerCase()){
