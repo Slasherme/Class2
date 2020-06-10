@@ -121,6 +121,6 @@ seQuestion();
 
 function finalScore(){
     alert (myscore + '/7');
-    alert('Welcome,please keep intersted '+userName);
+    alert('Welcome,please keep interested '+userName);
 }
 finalScore();
