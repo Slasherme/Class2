@@ -1,0 +1,10 @@
+p {color: blue;};
+h1 {color: darkred;}
+* {background-color: darkgray;};
+p {color: gray;}
+footer {text-align: center;}
+title {text-align: center;}
+li,ul {text-align: center;color: green;}
+body{font-size: larger};
+h1 {text-align: center;}
+body {font-style: italic}; 
